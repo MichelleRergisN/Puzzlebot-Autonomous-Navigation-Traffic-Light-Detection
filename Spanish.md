@@ -1,6 +1,6 @@
 # Puzzlebot: Autonomous Navigation & Traffic Light Detection
 <div align="center">
-  <img src="./assets/header.svg" alt="PuzzleBot — Autonomous Navigation & Traffic Light Detection" width="100%"/>
+  <img src="./assets/header.svg" alt="PuzzleBot — Navegación Autónoma y Detección de Semáforo" width="100%"/>
 </div>
 
 <br>
