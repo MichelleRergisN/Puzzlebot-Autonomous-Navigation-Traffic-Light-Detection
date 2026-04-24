@@ -1,1 +1,1 @@
-# Puzzlebot-Autonomous-Navigation-Traffic-Light-Detection
+# Puzzlebot: Autonomous Navigation & Traffic Light Detection
